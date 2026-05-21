@@ -1,1 +1,0 @@
-# migraineai-privacy
